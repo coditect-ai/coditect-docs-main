@@ -1,3 +1,15 @@
+---
+# YAML Frontmatter (Required for CODITECT Standards v1.0)
+project: "DOMA"
+version: "1.0.0"
+last_updated: "2025-11-28"
+total_tasks: 126
+completed_tasks: 0
+in_progress_tasks: 0
+blocked_tasks: 0
+status: "complete"
+---
+
 # coditect-docs - Task List
 
 **Project:** CODITECT Documentation Site (Docusaurus)
